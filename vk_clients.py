@@ -1,4 +1,4 @@
-from base import *
+from Base_Client import *
 from exceptions import *
 from datetime import datetime
 import requests
